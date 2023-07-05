@@ -71,8 +71,8 @@ async def process_file(filename):
 # ...
 
 if __name__ == '__main__':
-    username = 'U0000109430'
-    password = 'P$W1e6e18eda046d31af1bef867e1d944963'
+    username = 'username'
+    password = 'password'
 
     filename = sys.argv[1]
     db_name = filename + ".db"

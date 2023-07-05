@@ -18,8 +18,8 @@ start_time = time.time()
 # In[52]:
 
 
-username = 'U0000109430'
-password = 'P$W1e6e18eda046d31af1bef867e1d944963'
+username = 'username'
+password = 'password'
 
 filename = sys.argv[1]
 db_name = filename + ".db"
