@@ -6,10 +6,10 @@ Python Async demo
 3) Read products from DB and upload them to woocommerce
 
 **Without Async**
-![Screenshot](without async.png)
+![Screenshot](without_async.png)
 
 **With Async**
-![Screenshot](with async.png)
+![Screenshot](with_async.png)
 
 **Optimization : 90%**
 
